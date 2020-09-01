@@ -72,66 +72,54 @@ http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 
-#EXTINF:-1 ,上海Knews24
+#EXTINF:-1 group-title="特色频道", 上海Knews24
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 ,五星体育
+#EXTINF:-1 group-title="特色频道", 五星体育
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 ,法治天地HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 ,欢笑剧场HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjc/1300000/mnf.m3u8
-#EXTINF:-1 ,都市剧场HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjc/1300000/mnf.m3u8
-#EXTINF:-1 ,七彩戏剧HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 ,动漫秀场HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
-#EXTINF:-1 ,劲爆体育HD
-http://keonline.shanghai.liveplay.qq.com/live/program/live/jbty/1300000/mnf.m3u8
-#EXTINF:-1 ,极速汽车
-http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
-#EXTINF:-1 ,游戏风云
-http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 ,炫动卡通
-http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
-#EXTINF:-1 ,嘉佳卡通
-http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
-#EXTINF:-1 ,星尚
-http://keonline.shanghai.liveplay.qq.com/live/program/live/shss/1300000/mnf.m3u8
-#EXTINF:-1 ,上海纪实
-http://keonline.shanghai.liveplay.qq.com/live/program/live/jspd/1300000/mnf.m3u8
-#EXTINF:-1 ,上海新闻
-http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzh/1300000/mnf.m3u8
-#EXTINF:-1 ,上海娱乐
-http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpd/1300000/mnf.m3u8
-#EXTINF:-1 ,上海电视剧
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpd/1300000/mnf.m3u8
-#EXTINF:-1 ,上海ICS外语频道
+#EXTINF:-1 group-title="特色频道", 劲爆体育HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", 极速汽车
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", 星尚
+http://keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海纪实
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海ICS外语频道
 http://keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海艺术人文
+#EXTINF:-1 group-title="特色频道", ,欢笑剧场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8s
+#EXTINF:-1 group-title="特色频道", ,都市剧场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,法治天地HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,七彩戏剧HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海新闻
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzh/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海娱乐
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海电视剧
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,上海艺术人文
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ysrw/1300000/mnf.m3u8
-#EXTINF:-1 ,东方财经浦东
+#EXTINF:-1 group-title="特色频道", ,东方财经浦东
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 ,第一财经
+#EXTINF:-1 group-title="特色频道", ,第一财经
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dycj/1300000/mnf.m3u8
-
-
+#EXTINF:-1 group-title="特色频道", ,动漫秀场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,游戏风云
+http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,金鹰卡通
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,炫动卡通
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", ,嘉佳卡通
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="特色频道",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="特色频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="特色频道",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" group-title="特色频道",全纪实频道
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg" group-title="特色频道",上海新闻综合
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaidianshiju.png" group-title="特色频道",上海电视剧频道
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1 group-title="特色频道",百视通4K
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="特色频道",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="特色频道",时装台WFC
