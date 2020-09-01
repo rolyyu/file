@@ -77,7 +77,7 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="特色频道", MAX极速汽车
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="特色频道", 上海纪实人文
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="特色频道", 上海纪实人文
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="特色频道", 生活时尚
 http://keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
@@ -93,14 +93,6 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="特色频道", 第一财经
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 东方财经
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 动漫秀场
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 都市剧场
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 法治天地
-http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道", 游戏风云
 http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="特色频道", 金鹰卡通
@@ -109,9 +101,19 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
 http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="特色频道", 嘉佳卡通
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="特色频道",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="特色频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="特色频道", 法国时尚台
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="特色频道", 东方财经
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", 动漫秀场
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", 都市剧场
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="特色频道", 法治天地
+http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
