@@ -72,11 +72,9 @@ http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 
-#EXTINF:-1 group-title="特色频道", 上海Knews24
-http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 五星体育
+#EXTINF:-1 tvg-name="五星体育" group-title="特色频道", 五星体育
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="特色频道", 劲爆体育HD
+#EXTINF:-1 tvg-name="劲爆体育" group-title="特色频道", 劲爆体育
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="特色频道", 极速汽车
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
@@ -124,3 +122,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="特色频道",时装台WFC
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视卫视",CCTV-1综合
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
