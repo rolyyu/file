@@ -32,6 +32,8 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视卫视",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视卫视",CCTV4K
+http://117.148.187.56/PLTV/88888888/224/3221226758/1.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视卫视",东方卫视
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
