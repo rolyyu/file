@@ -61,8 +61,6 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/tjwshd/4000000/mnf.m3
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视卫视",山东卫视
 http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视卫视",重庆卫视
-http://keonline.shanghai.liveplay.qq.com/live/program/live/cqwshd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
