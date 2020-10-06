@@ -125,3 +125,25 @@ http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
 #EXTINF:-1,战旗_七侠镇同福客栈
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 ,CHC高清电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+#EXTINF:-1 ,CHC家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
