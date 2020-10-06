@@ -105,3 +105,25 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="特色频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 ,CHC高清电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+#EXTINF:-1 ,CHC家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
