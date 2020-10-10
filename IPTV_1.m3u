@@ -100,10 +100,8 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3
 
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="特色频道", 嘉佳卡通
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="特色频道", 哈哈炫动卡通
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="特色频道", 哈哈炫动
 http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="特色频道", 哈哈炫动 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="特色频道", 卡酷少儿 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="特色频道", 金鹰卡通
@@ -166,5 +164,3 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.dlpng.com/static/png/6140429-4k-png-103-images-in-collection-page-1-4k-png-470_315_preview.png" group-title="特色频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-
-
