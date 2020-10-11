@@ -109,59 +109,56 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="特色频道", 优漫卡通 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 爱情喜剧 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 黑莓动画 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 黑莓动画 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 动作电影 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 动作电影 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 古装剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 古装剧场 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 海外剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 海外剧场 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 家庭剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 家庭剧场 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 健康有约 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 怡伴健康 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 金牌综艺 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 金牌综艺 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 精品体育 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 精品体育 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 军旅剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 军旅剧场 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 精品纪录 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 精品纪录 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 精品大剧 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 精品大剧 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 军事评论 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 军事评论 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 精品电影 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 黑莓电影 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 明星大片 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 明星大片 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 完美游戏 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 完美游戏 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 武博世界 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 武博世界 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 中国功夫 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 中国功夫 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 超级综艺 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 超级综艺 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 超级体育 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 超级体育 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 超级电影 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 超级电影 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 超级电视 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 超级电视 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 潮妈辣婆 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 潮妈辣婆 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 动漫秀场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="特色频道", 动漫秀场 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道", 法制天地 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.dlpng.com/static/png/6140429-4k-png-103-images-in-collection-page-1-4k-png-470_315_preview.png" group-title="特色频道",BesTV4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.dlpng.com/static/png/6140429-4k-png-103-images-in-collection-page-1-4k-png-470_315_preview.png" group-title="特色频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
