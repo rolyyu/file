@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
+http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-4国际
+http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
+http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
+http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
+http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
+http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
+http://39.135.34.150:8080/000000001000/1000000001000023734/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?xtkg
+#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+
+
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228204/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228099/index.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228230/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221228153/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221228162/index.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228239/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228159/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228124/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228109/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道", 凤凰中文
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="卫视频道", 凤凰资讯
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 group-title="卫视频道", 凤凰香港
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道", 五星体育
+http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道", 劲爆体育
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道", 全纪实
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道", 上海纪实人文
+http://ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
+
+#EXTINF:-1 group-title="4K",CCTV16奥林匹克
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg",纯享4K
+http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
+
+北京卫视,http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
+上海卫视,http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?xtkg
+重庆卫视,http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?xtkg
+浙江卫视,http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?xtkg
+福建卫视,http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
+湖南卫视,http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
+江苏卫视,http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
+江西卫视,http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?xtkg
+山东卫视,http://39.135.34.150:8080/000000001000/1000000001000012807/1.m3u8?xtkg
+广东卫视,http://39.135.34.150:8080/000000001000/1000000001000028357/1.m3u8?xtkg
+深圳卫视,http://39.135.34.150:8080/000000001000/1000000001000011645/1.m3u8?xtkg
+辽宁卫视,http://39.135.34.150:8080/000000001000/1000000002000024033/1.m3u8?xtkg
